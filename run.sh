@@ -1,2 +1,2 @@
 #!/bin/bash
-yes | bash all.sh
+python3 continue.py | bash all.sh

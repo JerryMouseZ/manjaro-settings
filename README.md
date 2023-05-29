@@ -85,15 +85,5 @@ UUID=D0405C2B405C1A94                     /run/media/jz/新加卷  ntfs  default
 UUID=FAEC90F5EC90ACFF                     /run/media/jz/Windows-SSD  ntfs  defaults 0 0
 ```
 
-## 某天突然开机进不了图形界面
-不要随意更新！！特别是不要用sudo pacman -Su更新，尽量用图形界面里面的更新。
-一般是显卡驱动损坏了。可以ctrl + alt + fn切换到命令行然后startx查看错误
-
-首先联网，可以先进windows联网，然后manjaro会保持连接的状态。然后重装显卡驱动
-从linux515之后闭源驱动好像有问题，那装开源驱动。
-```Shell
-sudo mhwd -li #查看驱动
-sudo mhwd -r `驱动`
-sudo mhwd -a pci free 0300
-reboot
-```
+## 学生优惠
+详情可以看https://github.com/ivmm/Student-resources，好用的有github学生包，包括copilot以及一些VPS的优惠券，还有JetBrain全家桶。

@@ -86,4 +86,4 @@ UUID=FAEC90F5EC90ACFF                     /run/media/jz/Windows-SSD  ntfs  defau
 ```
 
 ## 学生优惠
-详情可以看https://github.com/ivmm/Student-resources，好用的有github学生包，包括copilot以及一些VPS的优惠券，还有JetBrain全家桶。
+详情可以看[链接](https://github.com/ivmm/Student-resources)，好用的有github学生包，包括copilot以及一些VPS的优惠券，还有JetBrain全家桶。
